@@ -2,9 +2,6 @@
 
 ![sunhyeok99's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunhyeok99&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkn1312)](https://solved.ac/kkn1312)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kkn1312&theme=warm)
-
 
 <!--
 **sunhyeok99/sunhyeok99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
