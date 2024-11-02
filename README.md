@@ -1,5 +1,6 @@
 ## Portfolio
 
+[포트폴리오.pdf](https://github.com/user-attachments/files/17608015/default.pdf)
 
 
 
