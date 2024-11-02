@@ -18,14 +18,57 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Category	Tools / Technologies
-📋 Languages	Java, Kotlin, JavaScript
-📚 Frameworks & Libraries	Backend: Spring Boot Vue.js
-💾 Databases	MySQL
-🗄️ Servers	Apache Tomcat
-💻 IDEs & Editors	IntelliJ IDEA, Visual Studio Code, Eclipse, Android Studio
-🔬 Continuous Integration	GitLab CI
-🎨 Design Tools	Figma
-🥅 Project Management & Collaboration	Jira, Notion, Discord
-🛠️ Other Tools	Gerrit, Gradle, Swagger
-🎓 Competitive Programming	Solved.ac Profile
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Tools / Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📋 Languages</td>
+      <td>Java, Kotlin, JavaScript</td>
+    </tr>
+    <tr>
+      <td>📚 Frameworks & Libraries</td>
+      <td>
+        <strong>Backend:</strong> Spring Boot, Node.js <br>
+        <strong>Frontend:</strong> Vue.js, Vite, Styled Components, Material-UI (MUI) <br>
+        <strong>Package Managers:</strong> NPM
+      </td>
+    </tr>
+    <tr>
+      <td>💾 Databases</td>
+      <td>MySQL</td>
+    </tr>
+    <tr>
+      <td>🗄️ Servers</td>
+      <td>Apache Tomcat</td>
+    </tr>
+    <tr>
+      <td>💻 IDEs & Editors</td>
+      <td>IntelliJ IDEA, Visual Studio Code, Eclipse, Android Studio</td>
+    </tr>
+    <tr>
+      <td>🔬 Continuous Integration</td>
+      <td>GitLab CI</td>
+    </tr>
+    <tr>
+      <td>🎨 Design Tools</td>
+      <td>Figma</td>
+    </tr>
+    <tr>
+      <td>🥅 Project Management & Collaboration</td>
+      <td>Jira, Notion, Discord</td>
+    </tr>
+    <tr>
+      <td>🛠️ Other Tools</td>
+      <td>Gerrit, Gradle, Swagger</td>
+    </tr>
+    <tr>
+      <td>🎓 Competitive Programming</td>
+      <td>Solved.ac Profile</td>
+    </tr>
+  </tbody>
+</table>
