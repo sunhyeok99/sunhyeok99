@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💪 Stack
-📋 Languages	📚 Frameworks
-Java Kotlin JavaScript
-SpringBoot Android Studio Vue.js
-NodeJS NPM Vite Styled Components MUI
-💾 Databases	🗄️ Servers	💻 IDEs/Editors
-MySQL	Apache Tomcat	IntelliJ IDEA Visual Studio Code Eclipse RStudio
-🔬 CI	🎨 Design	🥅 Other
-GitLab CI	Figma	Jira Notion Discord Gradle Swagger
-Solved.ac Profile
+Category	Tools / Technologies
+📋 Languages	Java, Kotlin, JavaScript
+📚 Frameworks & Libraries	Backend: Spring Boot Vue.js
+💾 Databases	MySQL
+🗄️ Servers	Apache Tomcat
+💻 IDEs & Editors	IntelliJ IDEA, Visual Studio Code, Eclipse, Android Studio
+🔬 Continuous Integration	GitLab CI
+🎨 Design Tools	Figma
+🥅 Project Management & Collaboration	Jira, Notion, Discord
+🛠️ Other Tools	Gerrit, Gradle, Swagger
+🎓 Competitive Programming	Solved.ac Profile
