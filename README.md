@@ -31,11 +31,10 @@ Here are some ideas to get you started:
       <td>Java, Kotlin, JavaScript</td>
     </tr>
     <tr>
-      <td>📚 Frameworks & Libraries</td>
+      <td>📚 Frameworks</td>
       <td>
-        <strong>Backend:</strong> Spring Boot, Node.js <br>
-        <strong>Frontend:</strong> Vue.js, Vite, Styled Components, Material-UI (MUI) <br>
-        <strong>Package Managers:</strong> NPM
+        <strong>Backend:</strong> Spring Boot<br>
+        <strong>Frontend:</strong> Vue.js<br>
       </td>
     </tr>
     <tr>
@@ -52,7 +51,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td>🔬 Continuous Integration</td>
-      <td>GitLab CI</td>
+      <td>GitLab </td>
     </tr>
     <tr>
       <td>🎨 Design Tools</td>
@@ -60,15 +59,11 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td>🥅 Project Management & Collaboration</td>
-      <td>Jira, Notion, Discord</td>
+      <td>Jira, Notion, Gerrit, Discord</td>
     </tr>
     <tr>
       <td>🛠️ Other Tools</td>
-      <td>Gerrit, Gradle, Swagger</td>
-    </tr>
-    <tr>
-      <td>🎓 Competitive Programming</td>
-      <td>Solved.ac Profile</td>
+      <td>Gradle, Swagger</td>
     </tr>
   </tbody>
 </table>
