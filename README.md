@@ -17,3 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💪 Stack
+📋 Languages	📚 Frameworks
+Java Kotlin JavaScript
+SpringBoot Android Studio Vue.js
+NodeJS NPM Vite Styled Components MUI
+💾 Databases	🗄️ Servers	💻 IDEs/Editors
+MySQL	Apache Tomcat	IntelliJ IDEA Visual Studio Code Eclipse RStudio
+🔬 CI	🎨 Design	🥅 Other
+GitLab CI	Figma	Jira Notion Discord Gradle Swagger
+Solved.ac Profile
