@@ -27,12 +27,12 @@
       <td>📚 Frameworks</td>
       <td>
         <strong>Backend:</strong> Spring Boot<br>
-        <strong>Frontend:</strong> Vue.js<br>
+        <strong>Frontend:</strong> React, Vue.js<br>
       </td>
     </tr>
     <tr>
       <td>💾 Databases</td>
-      <td>MySQL</td>
+      <td>MySQL, MSSQL</td>
     </tr>
     <tr>
       <td>🗄️ Servers</td>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <td>🔬 Continuous Integration</td>
-      <td>GitLab </td>
+      <td>GitLab, GitHub</td>
     </tr>
     <tr>
       <td>🎨 Design Tools</td>
@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <td>🛠️ Other Tools</td>
-      <td>Gradle, Swagger</td>
+      <td>Postman, Swagger, Tableau</td>
     </tr>
   </tbody>
 </table>
