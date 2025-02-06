@@ -6,7 +6,7 @@
 
 ## 📌 EXPERIENCE
 
-2024.01 ~         | Enssel 
+2024.01 ~ <br>        | Enssel 
 
 2023.07 ~ 2024.06 | SSAFY 10th
 
