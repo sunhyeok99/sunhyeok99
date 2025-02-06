@@ -1,4 +1,4 @@
-## 📌 Portfolio
+## 👋 Portfolio
 
 [포트폴리오.pdf](https://github.com/user-attachments/files/17608015/default.pdf)
 
@@ -6,13 +6,13 @@
 
 ## 📌 EXPERIENCE
 
-2024.01 ~               | Enssel 
+🏢 Enssel(2024.01 ~ )
 
-2023.07 ~ 2024.06 | SSAFY 10th
+💻 SSAFY 10th(2023.07 ~ 2024.06)
 
-2023.05 ~ 2023.06 | Korea IT Academy
+💻 Korea IT Academy(2023.05 ~ 2023.06)
 
-2017.03 ~ 2023.02 | Konkuk University
+🏛️ Konkuk University(2017.03 ~ 2023.02)
 
 
 
