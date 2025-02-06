@@ -4,6 +4,14 @@
 
 
 
+## EXPERIENCE
+
+2024.01 ~         | Enssel 
+2023.07 ~ 2024.06 | SSAFY 10th
+2023.05 ~ 2023.06 | Korea IT Academy
+2017.03 ~ 2023.02 | Konkuk University
+
+
 
 ## Profile
 
