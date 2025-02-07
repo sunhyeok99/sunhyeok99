@@ -4,7 +4,7 @@
 
 
 
-## 📌 EXPERIENCE
+## 📌 EXPERIENCE 
 
 🏢 Enssel(2024.01 ~ )
 
