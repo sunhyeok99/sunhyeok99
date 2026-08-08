@@ -2,8 +2,9 @@
 
 [포트폴리오.pdf](https://github.com/user-attachments/files/17608015/default.pdf)
 
-[Uploading 김선혁_포트폴리오_수정본.pptx…]()
-[김선혁_포트폴리오_수정본.pdf](https://github.com/user-attachments/files/30853805/_._.pdf)
+[김선혁_포트폴리오_수정본.pptx](https://github.com/user-attachments/files/30853810/_._.pptx)
+
+[김선혁_포트폴리오_수정본.pdf](https://github.com/user-attachments/files/30853811/_._.pdf)
 
 
 ## 📌 경험
