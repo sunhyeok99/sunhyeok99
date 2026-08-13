@@ -1,10 +1,6 @@
 ## 👋 Portfolio
 
-[포트폴리오.pdf](https://github.com/user-attachments/files/17608015/default.pdf)
-
-[김선혁_포트폴리오_수정본.pptx](https://github.com/user-attachments/files/30853810/_._.pptx)
-
-[김선혁_포트폴리오_수정본.pdf](https://github.com/user-attachments/files/30853811/_._.pdf)
+[김선혁_포트폴리오.pdf](https://github.com/user-attachments/files/31034283/_.pdf)
 
 
 ## 📌 경험
