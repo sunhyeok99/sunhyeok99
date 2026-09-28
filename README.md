@@ -2,6 +2,7 @@
 
 [김선혁_포트폴리오.pdf](https://github.com/user-attachments/files/31034283/_.pdf)
 
+https://drive.google.com/file/d/1Xt8H5cdWK-8RCkPNUhHdGlIdh9S_1wYO/view?usp=sharing 
 
 ## 📌 경험
 
